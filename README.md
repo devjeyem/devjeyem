@@ -83,8 +83,8 @@
   
 | | |
 | --- | --- |
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjeyem&theme=merko&show_icons=true&hide_border=false&count_private=true)](https://github.com/devjeyem) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devjeyem&theme=merko&hide_border=false)](https://github.com/devjeyem) |
-| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjeyem&theme=merko&show_icons=true&hide_border=false&layout=compact)](https://github.com/devjeyem) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjeyem&repo=netflix_clone&theme=merko&show)](https://github.com/anuraghazra/github-readme-stats) |
+| ![devjeyem's Stats](https://github-readme-stats.vercel.app/api?username=devjeyem&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) | ![devjeyem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devjeyem&theme=midnight-purple&hide_border=true) |
+| ![devjeyem's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devjeyem&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=devjeyem&repo=netflix_clone&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) |
 
 </div>
 
